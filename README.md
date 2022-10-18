@@ -2,8 +2,8 @@
 
 __Course:__ `Big Data Based Marketing Analytics`  
 __Authors:__ `Turakulov Akramjon, Rakhimkulova Aliia, Yakovlev Petr, Sitdikova Julia`  
-__Group:__ `BASB212 `
-
+__Group:__ `BASB212 `   
+__Google Colab:__ [link](https://colab.research.google.com/drive/1QHwj5Zosj_PHnTROC8BFQCLs8lpmOUZH?usp=sharing)
 -------
 ### Task descriprion
 
